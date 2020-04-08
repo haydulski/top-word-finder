@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/github.io/top-word-finder/precache-manifest.525f9375fc8dd4dd79a69da6922d4bc8.js"
+  "/github.io/top-word-finder/precache-manifest.4fcd795f7f5fcc24f1339c7d155fa6d3.js"
 );
 
 self.addEventListener('message', (event) => {

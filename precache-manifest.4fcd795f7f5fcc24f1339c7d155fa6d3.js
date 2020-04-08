@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de25ce6e83a3239f7d8b2e1e0a47588b",
+    "revision": "a665ff195891b62e457748742b6f2968",
     "url": "/github.io/top-word-finder/index.html"
   },
   {
-    "revision": "c76896232104ca6ca67e",
+    "revision": "c8d5718f20c2a8129e01",
     "url": "/github.io/top-word-finder/static/css/main.1531d586.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github.io/top-word-finder/static/js/2.73b4be19.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c76896232104ca6ca67e",
-    "url": "/github.io/top-word-finder/static/js/main.4cacc9ff.chunk.js"
+    "revision": "c8d5718f20c2a8129e01",
+    "url": "/github.io/top-word-finder/static/js/main.a66d9634.chunk.js"
   },
   {
     "revision": "6a204d30d91400c82a9d",
