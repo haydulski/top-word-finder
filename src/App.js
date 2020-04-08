@@ -1,26 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+  stats = {
+    txt: ""
+  }
+  render() {
+    return (
+      <>
+        <h1>Top-word finder</h1>
+        <h3>Place below you text and search for most popular words in it</h3>
+        <form >
+          <textarea id="txt" cols="30" rows="10" placeholder="copy/paste or type your text..." ></textarea>
+          <button>Search</button>
+        </form>
+      </>
+    );
+  }
 }
 
 export default App;
