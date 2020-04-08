@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/top-word-finder/static/css/main.1531d586.chunk.css",
-    "main.js": "/github.io/top-word-finder/static/js/main.a66d9634.chunk.js",
-    "main.js.map": "/github.io/top-word-finder/static/js/main.a66d9634.chunk.js.map",
-    "runtime-main.js": "/github.io/top-word-finder/static/js/runtime-main.3d6b5978.js",
-    "runtime-main.js.map": "/github.io/top-word-finder/static/js/runtime-main.3d6b5978.js.map",
-    "static/js/2.73b4be19.chunk.js": "/github.io/top-word-finder/static/js/2.73b4be19.chunk.js",
-    "static/js/2.73b4be19.chunk.js.map": "/github.io/top-word-finder/static/js/2.73b4be19.chunk.js.map",
-    "index.html": "/github.io/top-word-finder/index.html",
-    "precache-manifest.4fcd795f7f5fcc24f1339c7d155fa6d3.js": "/github.io/top-word-finder/precache-manifest.4fcd795f7f5fcc24f1339c7d155fa6d3.js",
-    "service-worker.js": "/github.io/top-word-finder/service-worker.js",
-    "static/css/main.1531d586.chunk.css.map": "/github.io/top-word-finder/static/css/main.1531d586.chunk.css.map",
-    "static/js/2.73b4be19.chunk.js.LICENSE.txt": "/github.io/top-word-finder/static/js/2.73b4be19.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/github.io/top-word-finder/static/media/img1.504d96a4.jpg"
+    "main.css": "/top-word-finder/static/css/main.1473a4c3.chunk.css",
+    "main.js": "/top-word-finder/static/js/main.a66d9634.chunk.js",
+    "main.js.map": "/top-word-finder/static/js/main.a66d9634.chunk.js.map",
+    "runtime-main.js": "/top-word-finder/static/js/runtime-main.0ef21eb5.js",
+    "runtime-main.js.map": "/top-word-finder/static/js/runtime-main.0ef21eb5.js.map",
+    "static/js/2.73b4be19.chunk.js": "/top-word-finder/static/js/2.73b4be19.chunk.js",
+    "static/js/2.73b4be19.chunk.js.map": "/top-word-finder/static/js/2.73b4be19.chunk.js.map",
+    "index.html": "/top-word-finder/index.html",
+    "precache-manifest.19a9b1bbcab2849f3bab05ab2229a0a5.js": "/top-word-finder/precache-manifest.19a9b1bbcab2849f3bab05ab2229a0a5.js",
+    "service-worker.js": "/top-word-finder/service-worker.js",
+    "static/css/main.1473a4c3.chunk.css.map": "/top-word-finder/static/css/main.1473a4c3.chunk.css.map",
+    "static/js/2.73b4be19.chunk.js.LICENSE.txt": "/top-word-finder/static/js/2.73b4be19.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/top-word-finder/static/media/img1.504d96a4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d6b5978.js",
+    "static/js/runtime-main.0ef21eb5.js",
     "static/js/2.73b4be19.chunk.js",
-    "static/css/main.1531d586.chunk.css",
+    "static/css/main.1473a4c3.chunk.css",
     "static/js/main.a66d9634.chunk.js"
   ]
 }
